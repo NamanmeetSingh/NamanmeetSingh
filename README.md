@@ -2,7 +2,7 @@
   
   # Hi there, I'm Namanmeet Singh 👋
 
-  ### Software Engineer | 
+  ### Building Scalable & Secure Systems | Software Engineer | AI Enthusiast
 
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -10,17 +10,14 @@
     </a>
   </p>
 
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/namanmeet-singh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nsingh2_be23@thapar.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://komarev.com/ghpvc/?username=NamanmeetSingh">
+    <img src="https://komarev.com/ghpvc/?username=NamanmeetSingh&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   </a>
 </div>
 
@@ -58,14 +55,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanmeetSingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanmeetSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanmeetSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <div align="center">
