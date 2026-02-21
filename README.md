@@ -1,68 +1,78 @@
 <div align="center">
-  
-  # Hi there, I'm Namanmeet Singh 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header" width="100%"/>
+</div>
 
-  ### Building Scalable & Secure Systems | Software Engineer | AI Enthusiast
+<div align="center">
+  <h1>Hi there, I'm Namanmeet Singh 👋</h1>
+  <h3>Building Scalable & Secure Systems | Software Engineer | AI Enthusiast</h3>
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+scalable+web+applications;Solving+complex+problems+with+code;Always+learning+new+technologies" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Solving+complex+problems+with+code;Always+learning+new+technologies" alt="Typing SVG" />
     </a>
   </p>
 
-  <a href="https://linkedin.com/in/namanmeet-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nsingh2_be23@thapar.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=NamanmeetSingh">
-    <img src="https://komarev.com/ghpvc/?username=NamanmeetSingh&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<details>
-  <summary><b>Click to expand my tech stack</b></summary>
-  <br/>
-
-  **Frontend** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-  **Backend** <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-  **DevOps & Tools** <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanmeetSingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanmeetSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <p align="center">
+    <a href="https://linkedin.com/in/namanmeet-singh" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:nsingh2_be23@thapar.edu" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=NamanmeetSingh" style="text-decoration:none;">
+      <img src="https://komarev.com/ghpvc/?username=NamanmeetSingh&label=Profile%20Views&style=for-the-badge&color=36BCF7" alt="Profile Views">
+    </a>
+  </p>
 </div>
 
 <br/>
 
+## 👨‍💻 About Me
+
+> 👋 Hi there! I'm **Namanmeet**, a B.Tech Computer Engineering student at TIET, Patiala. I'm passionate about building secure applications and solving real-world problems.
+> 
+> 🔭 **Currently working on:** Building DL pipelines for speech signal analysis<br/>
+> 🛠️ **My Go-To Stack:** Python, C++, JavaScript | React, Next.js, Node.js | GenAI, RAGs, LLMs<br/>
+> 🤝 **Looking to collaborate on:** Open-source tools, full-stack platforms, and scalable cloud-based systems
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanmeetSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,postgres,c,react,nextjs,nodejs,express,django,redux,threejs,tailwind,pytorch,tensorflow,opencv,docker,aws,gcp,mongodb,redis,git&perline=11" alt="Tech Stack"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=NamanmeetSingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanmeetSingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NamanmeetSingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="380"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
