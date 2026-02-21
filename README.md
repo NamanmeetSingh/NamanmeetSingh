@@ -12,17 +12,12 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/namanmeet-singh" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:nsingh2_be23@thapar.edu" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=NamanmeetSingh" style="text-decoration:none;">
-      <img src="https://komarev.com/ghpvc/?username=NamanmeetSingh&label=Profile%20Views&style=for-the-badge&color=36BCF7" alt="Profile Views">
-    </a>
-  </p>
+<p align="center">
+<a href="https://linkedin.com/in/namanmeet-singh" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="mailto:nsingh2_be23@thapar.edu" style="text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://komarev.com/ghpvc/?username=NamanmeetSingh" style="text-decoration:none;"><img src="https://komarev.com/ghpvc/?username=NamanmeetSingh&label=Profile%20Views&style=for-the-badge&color=36BCF7"></a>
+</p>
+
 </div>
 
 <br/>
@@ -65,14 +60,6 @@
       </td>
     </tr>
   </table>
-
-  <br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanmeetSingh/NamanmeetSingh/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <div align="center">
